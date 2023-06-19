@@ -13,7 +13,7 @@
         {
             "name": "capitec" ,
             "urls": {
-                "home_url": "https://www.capitecbank.co.za/",
+                "home": "https://www.capitecbank.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -23,7 +23,7 @@
         {
             "name": "standardbank" ,
             "urls": {
-                "home_url": "https://www.standardbank.co.za/",
+                "home": "https://www.standardbank.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -33,7 +33,7 @@
         {
             "name": "fnb" ,
             "urls": {
-                "home_url": "https://www.fnb.co.za/",
+                "home": "https://www.fnb.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -43,7 +43,7 @@
         {
             "name": "nedbank" ,
             "urls": {
-                "home_url": "https://www.nedbank.co.za/",
+                "home": "https://www.nedbank.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -53,7 +53,7 @@
         {
             "name": "investec" ,
             "urls": {
-                "home_url": "https://www.investec.co.za/",
+                "home": "https://www.investec.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -63,7 +63,7 @@
         {
             "name": "tymebank" ,
             "urls": {
-                "home_url": "https://www.tymebank.co.za/",
+                "home": "https://www.tymebank.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -73,7 +73,7 @@
         {
             "name": "bidvestbank" ,
             "urls": {
-                "home_url": "https://www.bidvestbank.co.za/",
+                "home": "https://www.bidvestbank.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -83,7 +83,7 @@
         {
             "name": "sasfin" ,
             "urls": {
-                "home_url": "https://www.sasfin.com/",
+                "home": "https://www.sasfin.com/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -93,7 +93,7 @@
         {
             "name": "mercantile" ,
             "urls": {
-                "home_url": "https://www.mercantile.co.za/",
+                "home": "https://www.mercantile.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -103,7 +103,7 @@
         {
             "name": "grindrodbank" ,
             "urls": {
-                "home_url": "https://www.grindrodbank.co.za/",
+                "home": "https://www.grindrodbank.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -113,7 +113,7 @@
         {
             "name": "grobank" ,
             "urls": {
-                "home_url": "https://www.grobank.co.za/",
+                "home": "https://www.grobank.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -123,7 +123,7 @@
         {
             "name": "hbzbank" ,
             "urls": {
-                "home_url": "https://www.hbzbank.co.za/",
+                "home": "https://www.hbzbank.co.za/",
                 "personal_accounts": "",
                 "business_accounts": "",
                 "investments": ""
@@ -136,49 +136,49 @@
             {
                 "name": "Shoprite" ,
                 "urls": {
-                    "home_url": "https://www.shoprite.co.za/"
+                    "home": "https://www.shoprite.co.za/"
                 }
             },
             {
                 "name": "Pick n Pay" ,
                 "urls": {
-                    "home_url": "https://www.picknpay.co.za/"
+                    "home": "https://www.picknpay.co.za/"
                 }
             },
             {
                 "name": "Spar" ,
                 "urls": {
-                    "home_url": "https://www.spar.co.za/"
+                    "home": "https://www.spar.co.za/"
                 }
             },
             {
                 "name": "Woolworths" ,
                 "urls": {
-                    "home_url": "https://www.woolworths.co.za/"
+                    "home": "https://www.woolworths.co.za/"
                 }
             },
             {
                 "name": "Checkers" ,
                 "urls": {
-                    "home_url": "https://www.checkers.co.za/"
+                    "home": "https://www.checkers.co.za/"
                 }
             },
             {
                 "name": "Makro",
                 "urls": {
-                    "home_url": "https://www.makro.co.za/"
+                    "home": "https://www.makro.co.za/"
                 }
             },
             {
                 "name": "Food Lover's Market",
                 "urls": {
-                    "home_url": "https://www.foodloversmarket.co.za/"
+                    "home": "https://www.foodloversmarket.co.za/"
                 }
             },
             {
                 "name": "Game",
                 "urls": {
-                    "home_url": "https://www.game.co.za/"
+                    "home": "https://www.game.co.za/"
                 }
             }
         ],
@@ -186,43 +186,43 @@
             {
                 "name": "Clicks",
                 "urls": {
-                    "home_url": "https://clicks.co.za/"
+                    "home": "https://clicks.co.za/"
                 }
             },
             {
                 "name": "Dis-Chem",
                 "urls": {
-                    "home_url": "https://www.dischem.co.za/"
+                    "home": "https://www.dischem.co.za/"
                 }
             },
             {
                 "name": "Pick n Pay Pharmacy",
                 "urls": {
-                    "home_url": "https://www.picknpay.co.za/pharmacy"
+                    "home": "https://www.picknpay.co.za/pharmacy"
                 }
             },
             {
                 "name": "Checkers Pharmacy",
                 "urls": {
-                    "home_url": "https://www.checkers.co.za/pharmacy"
+                    "home": "https://www.checkers.co.za/pharmacy"
                 }
             },
             {
                 "name": "Medicare Pharmacy",
                 "urls": {
-                    "home_url": "https://www.medirite.co.za/"
+                    "home": "https://www.medirite.co.za/"
                 }
             },
             {
                 "name": "",
                 "urls": {
-                    "home_url": ""
+                    "home": ""
                 }
             },
             {
                 "name": "",
                 "urls": {
-                 "home_url": ""
+                 "home": ""
                 }
             }
         ],
@@ -230,31 +230,31 @@
             {
                 "name": "Woolworths" ,
                 "urls": {
-                    "home_url": "https://www.woolworths.co.za/"
+                    "home": "https://www.woolworths.co.za/"
                 }
             },
             {
                 "name": "Edgars" ,
                 "urls": {
-                    "home_url": "https://www.edgars.co.za/"
+                    "home": "https://www.edgars.co.za/"
                 }
             },
             {
                 "name": "Truworths" ,
                 "urls": {
-                    "home_url": "https://www.truworths.co.za/"
+                    "home": "https://www.truworths.co.za/"
                 }
             },
             {
                 "name": "Foschini" ,
                 "urls": {
-                    "home_url": "https://www.foschini.co.za/"
+                    "home": "https://www.foschini.co.za/"
                 }
             },
             {
                 "name": "Mr Price" ,
                 "urls": {
-                    "home_url": "https://www.mrp.com/"
+                    "home": "https://www.mrp.com/"
                 }
             },
             {
